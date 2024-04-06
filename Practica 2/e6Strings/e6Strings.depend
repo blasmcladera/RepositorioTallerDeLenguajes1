@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1710982972 source:/home/blascladera/Escritorio/Taller I/Practica 2/e6Strings/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1710994100 source:f:\taller i\practica 2\e6strings\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

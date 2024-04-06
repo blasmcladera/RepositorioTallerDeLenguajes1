@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1710446394 source:d:\taller i\practica 2\e2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

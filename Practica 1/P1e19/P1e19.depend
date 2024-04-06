@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1710005074 source:d:\taller i\p1e19\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

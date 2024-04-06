@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1710978450 source:/home/blascladera/Escritorio/Taller I/Practica 2/e3Punteros/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

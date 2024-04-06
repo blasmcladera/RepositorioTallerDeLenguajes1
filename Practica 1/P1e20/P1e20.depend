@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1710006310 source:d:\taller i\p1e20\main.c
+	<stdio.h>
+	<stdlib.h>
+
