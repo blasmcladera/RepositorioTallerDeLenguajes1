@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1713531871 source:c:\users\alumnos\desktop\repositoriotallerdelenguajes1\practica 3\e15\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

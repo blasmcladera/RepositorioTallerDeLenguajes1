@@ -7,7 +7,7 @@ void convertToBinary(int a) {
 }
 
 void activarModulo (int *b){
-    printf("Modulo a activar (Salir=-1;Bluetooth=7 ,Wifi=6 ,GPS=5 ,Datos=4 ,Frontal=3 ,Trasera=2 ,Linterna=1 ,Vibrar=0): \n");
+    printf("Modulo a activar (Bluetooth=7 ,Wifi=6 ,GPS=5 ,Datos=4 ,Frontal=3 ,Trasera=2 ,Linterna=1 ,Vibrar=0): \n");
     int aux;
     scanf("%d",&aux);
     *b+=1<<aux;
