@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1715950585 source:/home/alumnos/Escritorio/RepositorioTallerDeLenguajes1/Practica 4/e8/main.c
+	<stdio.h>
+	<stdlib.h>
+
