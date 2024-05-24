@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1716552392 source:c:\users\alumnos\desktop\repositoriotallerdelenguajes1\practica 5\e5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -9,9 +9,10 @@ int main()
         return 1;
     }
     int n,max=-1;
-    while (fscanf(f,"%d",&n))
-        if (n>max)
-            max=n;
+    while (!feof(f)){
+        fscanf(f,"%d-",&n);
+        if (n>max)max=n;
+    }
     printf("%d",max);
     return 0;
 }
