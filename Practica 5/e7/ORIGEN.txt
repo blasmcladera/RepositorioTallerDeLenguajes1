@@ -1,0 +1,6 @@
+fputc(fgetc(fo),fd);
+    while (!feof(fo))fputc(fgetc(fo),fd);fputc(fgetc(fo),fd);
+    while (!feof(fo))fputc(fgetc(fo),fd);fputc(fgetc(fo),fd);
+    while (!feof(fo))fputc(fgetc(fo),fd);fputc(fgetc(fo),fd);
+    while (!feof(fo))fputc(fgetc(fo),fd);fputc(fgetc(fo),fd);
+    while (!feof(fo))fputc(fgetc(fo),fd);
